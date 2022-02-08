@@ -1,0 +1,11 @@
+{
+	"private": true,
+	"license": "BSD-3-Clause",
+	"dependencies": {
+		"nan": "^2.15.0"
+	},
+	"devDependencies": {
+		"tree-sitter-cli": "^0.20.4"
+	},
+	"main": "bindings/node"
+}

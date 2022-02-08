@@ -1,0 +1,116 @@
+[
+  {
+    "type": "comment",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "program",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "string_doublequote",
+          "named": true
+        },
+        {
+          "type": "string_raw",
+          "named": true
+        },
+        {
+          "type": "string_singlequote",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "string_doublequote",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "string_singlequote",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "\n",
+    "named": false
+  },
+  {
+    "type": "\"",
+    "named": false
+  },
+  {
+    "type": "#",
+    "named": false
+  },
+  {
+    "type": "$'",
+    "named": false
+  },
+  {
+    "type": "&",
+    "named": false
+  },
+  {
+    "type": "'",
+    "named": false
+  },
+  {
+    "type": ";",
+    "named": false
+  },
+  {
+    "type": ";;",
+    "named": false
+  },
+  {
+    "type": "<",
+    "named": false
+  },
+  {
+    "type": "<<",
+    "named": false
+  },
+  {
+    "type": ">",
+    "named": false
+  },
+  {
+    "type": ">!",
+    "named": false
+  },
+  {
+    "type": ">&",
+    "named": false
+  },
+  {
+    "type": ">&!",
+    "named": false
+  },
+  {
+    "type": ">>",
+    "named": false
+  },
+  {
+    "type": ">>!",
+    "named": false
+  },
+  {
+    "type": ">>&",
+    "named": false
+  },
+  {
+    "type": ">>&!",
+    "named": false
+  },
+  {
+    "type": "string_raw",
+    "named": true
+  }
+]
